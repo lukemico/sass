@@ -1,0 +1,31 @@
+/* Framework version for the generated CSS is 7.8. */
+h1 {
+  color: #AF80ED;
+}
+
+h3 {
+  color: #DE5E85;
+}
+
+.class1,
+.class2 {
+  color: red;
+}
+
+/* This comment is
+ * more than one line long
+ * since it uses the CSS comment syntax,
+ * it will appear in the CSS output. */
+body {
+  color: black;
+}
+
+a {
+  color: blue;
+}
+
+#set_width {
+  padding-left: 95px;
+}
+
+/*# sourceMappingURL=style.css.map */
